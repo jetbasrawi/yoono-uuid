@@ -1,7 +1,8 @@
-# UUID package for Go language
+# UUID package for Go language forked from Satori's UUID package
 
-[![Build Status](https://travis-ci.org/satori/go.uuid.png?branch=master)](https://travis-ci.org/satori/go.uuid)
-[![GoDoc](http://godoc.org/github.com/satori/go.uuid?status.png)](http://godoc.org/github.com/satori/go.uuid)
+This package is kept here for use in my own projects.
+
+You should not use this package. Instead you should use the original package from satori.
 
 This package provides pure Go implementation of Universally Unique Identifier (UUID). Supported both creation and parsing of UUIDs.
 
