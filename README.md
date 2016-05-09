@@ -1,4 +1,4 @@
-# UUID package for Go language forked from Satori's UUID package
+# UUID package for Go language
 
 This package is kept here for use in my own projects.
 
